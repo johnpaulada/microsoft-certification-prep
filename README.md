@@ -18,4 +18,4 @@ This is a living document so i'll keep adding stuff here as I encounter them.
 - [ ] [Designing and Implementing a Data Science Solution on Azure on Microsoft Open edX](https://oxa.microsoft.com/courses/course-v1:Microsoft+DP-100.1+2019_T3/about)
 
 ## References
-- [Free Azure certification training courses] repo by [Eng Soon Cheah](https://github.com/cheahengsoon)
+- [Free Azure certification training courses](https://github.com/cheahengsoon/MicrosoftOpenEdx) repo by [Eng Soon Cheah](https://github.com/cheahengsoon)
