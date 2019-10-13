@@ -1,5 +1,5 @@
 # Microsoft Certification Exam Prep Resources
-Resources for preparing for Microsoft Certification Exams.
+Will keep adding stuff here as I encounter them.
 
 ## AZ-900
 - [ ] [Azure Fundamentals Learning Path on Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/index)
